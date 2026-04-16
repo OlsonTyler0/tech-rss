@@ -1,15 +1,11 @@
 ---
-name: "Feature request \U0001F680"
-about: Suggest an idea
+name: "Feed Request \U0001F680"
+about: Suggest a new feed
 labels: enhancement
 
 ---
 
 ## Summary
-Brief explanation of the feature.
+Brief explanation of the feed
 
-### Basic example
-Include a basic example or links here.
-
-### Motivation
-Why are we doing this? What use cases does it support? What is the expected outcome?
+## Feed URL 
