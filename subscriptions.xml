@@ -35,6 +35,7 @@
       <outline text="Your Open Hacker Community" title="Your Open Hacker Community" description="" type="rss" version="RSS" htmlUrl="https://www.reddit.com/r/HowToHack/" xmlUrl="http://www.reddit.com/r/HowToHack/.rss"/>
     </outline>
     <outline text="Security" title="Security">
+      <outline text="Joho no Todai - Security (Japanese)" title="Joho no Todai - Security (Japanese)" description="" type="rss" version="RSS" htmlUrl="https://joho-todai.com/tag/security/" xmlUrl="https://joho-todai.com/tag/security/rss/"/>
       <outline text="A Few Thoughts on Cryptographic Engineering" title="A Few Thoughts on Cryptographic Engineering" description="" type="rss" version="RSS" htmlUrl="https://blog.cryptographyengineering.com" xmlUrl="http://blog.cryptographyengineering.com/feeds/posts/default"/>
       <outline text="Application and Cybersecurity Blog" title="Application and Cybersecurity Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.securityinnovation.com" xmlUrl="https://blog.securityinnovation.com/rss.xml"/>
       <outline text="Aqua Blog" title="Aqua Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.aquasec.com" xmlUrl="http://blog.aquasec.com/rss.xml"/>
